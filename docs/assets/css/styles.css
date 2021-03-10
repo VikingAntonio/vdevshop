@@ -1,3 +1,6 @@
+body{
+  overflow-x:hidden;
+}
 .navbar.navbar-light.navbar-expand-md {
   background: #303030;
 }
